@@ -5,7 +5,7 @@
  * 
  * @author Matías de los Ríos Aguilar
  * 
- * @version 0.1
+ * @version 0.5
  * 
  * @category Utilidades
  */
